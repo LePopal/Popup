@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Tests/Popup.Updater.Core.Tests/Popup.Updater.Core.Tests.csproj" />
+  <Project Path="src/Popup.Updater.Core/Popup.Updater.Core.csproj" />
+  <Project Path="src/Popup.Updater.Launcher/Popup.Updater.Launcher.csproj" />
+  <Project Path="src/Popup/Popup.csproj" />
+</Solution>
