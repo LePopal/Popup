@@ -7,7 +7,9 @@ A modern .NET 10 application with built-in auto-update functionality via GitHub 
 
 If you find this project useful, consider supporting its development:
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=paypal)](https://www.paypal.me/AxelPironio)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=2G8FMP88B85DS)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-ea4aaa.svg?logo=github)](https://github.com/sponsors/LePopal)
+
 
 Your support helps maintain and improve this project. Thank you!
 
