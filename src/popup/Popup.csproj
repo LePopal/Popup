@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Popup.Updater.Core\Popup.Updater.Core.csproj" />
+  </ItemGroup>
+
 </Project>

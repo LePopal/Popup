@@ -1,0 +1,20 @@
+{
+  "updateSource": {
+    "type": "GitHub",
+    "owner": "votre-username",
+    "repository": "popup",
+    "preRelease": false,
+    "assetNamePattern": "Popup-v{Version}-{Platform}-{Architecture}.zip"
+  },
+  "application": {
+    "name": "Popup",
+    "executableName": "Popup.exe",
+    "currentVersion": "1.0.0",
+    "installPath": null
+  },
+  "updater": {
+    "launcherExecutable": "Popup.Updater.Launcher.exe",
+    "tempDownloadPath": "./temp_updates",
+    "requestElevation": true
+  }
+}
