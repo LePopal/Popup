@@ -3,6 +3,14 @@ Platform for Orchestrating POPAL Updates &amp; Patching.
 
 A modern .NET 10 application with built-in auto-update functionality via GitHub Releases.
 
+## Support This Project
+
+If you find this project useful, consider supporting its development:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=paypal)](https://www.paypal.me/AxelPironio)
+
+Your support helps maintain and improve this project. Thank you!
+
 ## Features
 
 - **Multi-platform**: Windows, macOS, Linux
@@ -142,7 +150,7 @@ Logs are stored in:
 
 ## License
 
-MIT License - see LICENSE file for details
+GPL-3.0 license - see LICENSE file for details
 
 ## Roadmap
 
